@@ -1,0 +1,16 @@
+{
+  "name": "chai-back",
+  "version": "1.0.0",
+  "description": "a backend at chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Kovin Mahan",
+  "license": "ISC"
+}
